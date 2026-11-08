@@ -9,7 +9,7 @@ Python, REST API, SQL, Streamlit, automation, bots, AI in workflows.
 I also build small games and web apps.
 
 ## Projects
-- **ISKER**: AI agent I built from scratch. It works through Gmail and runs on free-tier API keys with model fallback.
+- **ISKER**: AI agent for routine coding tasks: code analysis, bug fixes, refactoring. Runs on free-tier LLM providers with fallback and can also send email through Gmail.
 - **taller-digital**: landing site for a small-business services offer in Spain: web design, business automation, Telegram and WhatsApp bots. Visitors contact me through WhatsApp.
 - **jugando**: web catalog of video games with ratings and descriptions.
 - **palomita**: web catalog of movies and series with ratings and descriptions, using the TMDB API.
